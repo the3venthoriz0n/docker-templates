@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<CommunityApplications>
+  <Profile>
+Game server containers for Unraid, built on the SteamCMD server framework.
+
+This repository currently maintains the Deceive Inc. Dedicated Server container. It installs
+SteamCMD, downloads the Deceive Inc. Dedicated Server (Steam App ID 5007710) with an anonymous
+login, and runs it. Server settings live in a TripwireServer.ini that is kept outside the
+SteamCMD-managed files, so game updates never revert your configuration.
+
+Support is handled through the GitHub issue tracker linked below. Please include the container
+log from the point of startup when reporting a problem.
+  </Profile>
+  <WebPage>https://github.com/the3venthoriz0n/docker-steamcmd-server</WebPage>
+  <Forum>https://github.com/the3venthoriz0n/docker-steamcmd-server/issues</Forum>
+</CommunityApplications>
