@@ -11,6 +11,7 @@ SteamCMD-managed files, so game updates never revert your configuration.
 Support is handled through the GitHub issue tracker linked below. Please include the container
 log from the point of startup when reporting a problem.
   </Profile>
+  <Icon>https://raw.githubusercontent.com/the3venthoriz0n/docker-templates/master/images/deceiveinc.png</Icon>
   <WebPage>https://github.com/the3venthoriz0n/docker-steamcmd-server</WebPage>
   <Forum>https://github.com/the3venthoriz0n/docker-steamcmd-server/issues</Forum>
 </CommunityApplications>
